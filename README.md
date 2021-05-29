@@ -5,7 +5,7 @@ fine-grained sentiment analysis and dialogue sentiment analysis.
 ## About Me &emsp;  📫 mafangbd@163.com
   ### &emsp; Basic Situation
    #### &emsp; &emsp;  🌱 September 2016 - June 2020 &ensp;  Software Engineering, &ensp;  School of Software,&ensp;  Northeastern University,&ensp;  Bachelor 
-   #### &emsp; &emsp;&emsp;&emsp;   ■ Grade Point (GPA): 4.0892     &emsp; &emsp; &emsp; &nbsp;     Professional Ranking: 4/293 (1.36% for six academic years)
+   #### &emsp; &emsp;&emsp;&emsp;   ■ GPA: 4.0892     &emsp; &emsp;  &emsp; &emsp; &emsp; &nbsp;     Professional Ranking: 4/293 (1.36% for four academic years)
    
    #### &emsp; &emsp; 🌱 September 2020 - July 2023 &ensp;  Computer Science and Technology, &ensp;  Beijing Institute of Technology, &ensp; Master
    #### &emsp; &emsp;&emsp;&emsp; Direction: Natural language processing (fine-grained sentiment analysis, dialogue sentiment analysis)
