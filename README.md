@@ -22,7 +22,6 @@ fine-grained sentiment analysis and dialogue sentiment analysis.
   #### &emsp; &emsp;&emsp;&emsp; ✨Second Prize of Liaoning Province, 2018 National College Students Mathematical Contest in Modeling
   #### &emsp; &emsp;&emsp;&emsp; ✨Provincial Third Prize of the 2019 Lanqiao Cup College Student Program Design Competition
   #### &emsp; &emsp;&emsp;&emsp; ✨2019 "Intel Cup" National University Student Software Innovation Competition National Third Prize
-  #### &emsp; &emsp;&emsp;&emsp; ✨2019 Mathematical Contest In Modeling Certificate of Achievement, S award
   #### &emsp; &emsp;&emsp;&emsp; ✨2020.12 Huawei "HSDIHarmonyOS Campus Developer Series Activities. Beijing Station" won the Talent Award
   #### &emsp; &emsp; 🌱  Honorary Title
   #### &emsp; &emsp;&emsp;&emsp;   ✨2016-2017  2017-2018  Outstanding Student of Northeastern University 
