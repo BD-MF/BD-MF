@@ -30,7 +30,8 @@ fine-grained sentiment analysis and dialogue sentiment analysis.
   #### &emsp; &emsp;&emsp;&emsp;   ✨2020 Outstanding Graduate of Liaoning Province
 
 ### &emsp; 🤔 Achievement
-#### &emsp; &emsp;&emsp;&emsp; 🌱ACL2021: "Exploiting Position Bias for Robust Aspect Sentiment Classification", First author
+#### &emsp; &emsp;&emsp;&emsp; 🌱[ACL2021](https://2021.aclweb.org/): "[Exploiting Position Bias for Robust Aspect Sentiment Classification](https://arxiv.org/abs/2105.14210)", First author  
+
 #### &emsp; &emsp;&emsp;&emsp; 🌱Software copyright: "Speech Evaluation Web Application System Based on Deep Learning"
 
 ### &emsp; 🤔 Practice
