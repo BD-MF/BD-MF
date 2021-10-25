@@ -18,6 +18,8 @@ fine-grained sentiment analysis and dialogue sentiment analysis.
   #### &emsp; &emsp;&emsp;&emsp; ✨2017-2018 2018-2019 2019-2020 National Inspirational Scholarship
   #### &emsp; &emsp;&emsp;&emsp; ✨2019-2020 Mavericks Translation Scholarship
   #### &emsp; &emsp;&emsp;&emsp; ✨2020-2021 Beijing Institute of Technology Freshman Special Scholarship
+  #### &emsp; &emsp;&emsp;&emsp; ✨2021-2022 Beijing Institute of Technology Academic Special Scholarship
+ 
   #### &emsp; &emsp; 🌱  Competition
   #### &emsp; &emsp;&emsp;&emsp; ✨Second Prize of Liaoning Province, 2018 National College Students Mathematical Contest in Modeling
   #### &emsp; &emsp;&emsp;&emsp; ✨Provincial Third Prize of the 2019 Lanqiao Cup College Student Program Design Competition
