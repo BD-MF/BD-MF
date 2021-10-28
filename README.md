@@ -1,7 +1,7 @@
 ## Ma Fang 🤔
 
 🔭 I'm Ma Fang, a Master student majoring in Computer Science, Beijing Institute of Technology. My advisor is [Prof. Dawei Song](https://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm).  My current research direction is
-fine-grained sentiment analysis and dialogue sentiment analysis.
+fine-grained sentiment analysis and model robustness (out-of-domain, adversarial training, noisy label).
 ## About Me &emsp;  📫 mafangbd@163.com  WeChat: NEUMFang
   ### &emsp; Basic Situation
    #### &emsp; &emsp;  🌱 September 2016 - June 2020 &ensp;  Software Engineering, &ensp;  School of Software,&ensp;  Northeastern University,&ensp;  Bachelor 
