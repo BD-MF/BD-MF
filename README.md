@@ -19,6 +19,7 @@ fine-grained sentiment analysis and model robustness (out-of-domain, adversarial
   #### &emsp; &emsp;&emsp;&emsp; ✨2019-2020 Mavericks Translation Scholarship
   #### &emsp; &emsp;&emsp;&emsp; ✨2020-2021 Beijing Institute of Technology Freshman Special Scholarship
   #### &emsp; &emsp;&emsp;&emsp; ✨2021-2022 Beijing Institute of Technology Academic Special Scholarship
+  #### &emsp; &emsp;&emsp;&emsp; ✨2021-2022 Guorui Scholarship
  
   #### &emsp; &emsp; 🌱  Competition
   #### &emsp; &emsp;&emsp;&emsp; ✨Second Prize of Liaoning Province, 2018 National College Students Mathematical Contest in Modeling
@@ -30,7 +31,7 @@ fine-grained sentiment analysis and model robustness (out-of-domain, adversarial
   #### &emsp; &emsp;&emsp;&emsp;   ✨2018-2019 Northeastern University Self-reliance Advanced Individual
   #### &emsp; &emsp;&emsp;&emsp;   ✨2019-2020 Northeastern University Self-reliance Star
   #### &emsp; &emsp;&emsp;&emsp;   ✨2020 Outstanding Graduate of Liaoning Province
-  #### &emsp; &emsp;&emsp;&emsp;   ✨2020-2021 Outstanding Student of Beijing Institute of Technology-Postgraduate
+  #### &emsp; &emsp;&emsp;&emsp;   ✨2021-2022 Outstanding Student of Beijing Institute of Technology-Postgraduate
 
 ### &emsp; 🤔 Achievement
 #### &emsp; &emsp;&emsp;&emsp; 🌱[ACL2021](https://2021.aclweb.org/): "[Exploiting Position Bias for Robust Aspect Sentiment Classification](https://arxiv.org/abs/2105.14210)", First author  
