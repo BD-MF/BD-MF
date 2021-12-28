@@ -8,7 +8,7 @@ fine-grained sentiment analysis and model robustness (out-of-domain, adversarial
    #### &emsp; &emsp;&emsp;&emsp;   ■ GPA: 4.0892     &emsp; &emsp;  &emsp; &emsp; &emsp; &nbsp;     Professional Ranking: 4/293 (1.36% for four academic years)
    
    #### &emsp; &emsp; 🌱 September 2020 - July 2023 &ensp;  Computer Science and Technology, &ensp;  Beijing Institute of Technology, &ensp; Master
-   #### &emsp; &emsp;&emsp;&emsp; Direction: Natural language processing (fine-grained sentiment analysis, model robustness (out-of-domain, adversarial training, noisy label))
+   #### &emsp; &emsp;&emsp;&emsp; Direction: Natural language processing (fine-grained sentiment analysis, model robustness (Out-Of-Domain, Adversarial Training), Learning with Noisy Label, Prompt Tuning)
    #### &emsp; &emsp;&emsp;&emsp; Laboratory: language intelligence and social computing   &ensp;  Advisor: [Prof. Dawei Song](https://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm)
   
   ### &emsp; 😄 Honors 
