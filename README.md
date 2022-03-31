@@ -39,6 +39,7 @@ fine-grained sentiment analysis and model robustness (out-of-domain, adversarial
 
 ### &emsp; 🤔 Achievement
 #### &emsp; &emsp;&emsp;&emsp; 🌱[ACL2021](https://2021.aclweb.org/): "[Exploiting Position Bias for Robust Aspect Sentiment Classification](https://arxiv.org/abs/2105.14210)", First author  
+#### &emsp; &emsp;&emsp;&emsp; 🌱[SIGIR2022]: "[Adaptable Text Matching via Meta-Weight Regulator]", Third author  
 
 #### &emsp; &emsp;&emsp;&emsp; 🌱Software copyright: "Speech Evaluation Web Application System Based on Deep Learning"
 
