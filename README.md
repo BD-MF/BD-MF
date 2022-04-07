@@ -11,8 +11,7 @@ fine-grained sentiment analysis, model robustness (out-of-domain, adversarial tr
    #### &emsp; &emsp;&emsp;&emsp; Direction: Natural language processing NLP
    #### &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 🤔 Fine-grained Sentiment Analysis, 
    #### &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 🤔 Model Robustness (Out-Of-Domain, Adversarial Training), 
-   #### &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 🤔 Learning with Noisy Label, 
-   #### &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 🤔 Prompt Tuning
+   #### &emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 🤔 Prompt Learning
    #### &emsp; &emsp;&emsp;&emsp; Laboratory: language intelligence and social computing   &ensp;  Advisor: [Prof. Dawei Song](https://cs.bit.edu.cn/szdw/jsml/js/sdw/index.htm)
   
   ### &emsp; 😄 Honors 
