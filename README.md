@@ -25,6 +25,7 @@ fine-grained sentiment analysis, model robustness (out-of-domain, adversarial tr
   #### &emsp; &emsp;&emsp;&emsp; ✨2020-2021 Beijing Institute of Technology Freshman Special Scholarship
   #### &emsp; &emsp;&emsp;&emsp; ✨2021-2022 Beijing Institute of Technology Academic Special Scholarship
   #### &emsp; &emsp;&emsp;&emsp; ✨2021-2022 Guorui Scholarship
+  #### &emsp; &emsp;&emsp;&emsp; ✨2022-2023 Guorui Scholarship
  
   #### &emsp; &emsp; 🌱  Competition
   #### &emsp; &emsp;&emsp;&emsp; ✨Second Prize of Liaoning Province, 2018 National College Students Mathematical Contest in Modeling
