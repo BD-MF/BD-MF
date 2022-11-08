@@ -38,6 +38,7 @@ fine-grained sentiment analysis, model robustness (out-of-domain, adversarial tr
   #### &emsp; &emsp;&emsp;&emsp;   ✨2019-2020 Northeastern University Self-reliance Star
   #### &emsp; &emsp;&emsp;&emsp;   ✨2020 Outstanding Graduate of Liaoning Province
   #### &emsp; &emsp;&emsp;&emsp;   ✨2021-2022 Outstanding Student of Beijing Institute of Technology-Postgraduate
+  #### &emsp; &emsp;&emsp;&emsp;   ✨2022-2023Outstanding Student Model of Beijing Institute of Technology-Postgraduate
 
 ### &emsp; 🤔 Achievement
 #### &emsp; &emsp;&emsp;&emsp; 🌱[ACL2021](https://2021.aclweb.org/): "[Exploiting Position Bias for Robust Aspect Sentiment Classification](https://arxiv.org/abs/2105.14210)", First author  
