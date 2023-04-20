@@ -43,7 +43,7 @@ fine-grained sentiment analysis, model robustness (out-of-domain, adversarial tr
 ### &emsp; 🤔 Achievement
 #### &emsp; &emsp;&emsp;&emsp; 🌱[ACL2021](https://2021.aclweb.org/): "[Exploiting Position Bias for Robust Aspect Sentiment Classification](https://arxiv.org/abs/2105.14210)", First author  
 #### &emsp; &emsp;&emsp;&emsp; 🌱[SIGIR2022](https://sigir.org/sigir2022/): "[Adaptable Text Matching via Meta-Weight Regulator](https://arxiv.org/abs/2204.12668)", Third author  
-#### &emsp; &emsp;&emsp;&emsp; 🌱[EMNLP2022](https://2022.emnlp.org): "[XPROMPT: Exploring the Extreme of Prompt Tuning]()", First author 
+#### &emsp; &emsp;&emsp;&emsp; 🌱[EMNLP2022](https://2022.emnlp.org): "[XPROMPT: Exploring the Extreme of Prompt Tuning](https://aclanthology.org/2022.emnlp-main.758/)", First author 
 #### &emsp; &emsp;&emsp;&emsp; 🌱[Coling2022](https://coling2022.org/Submission): "[Structural Bias for Aspect Sentiment Triplet Extraction](https://arxiv.org/abs/2204.12668)", Third author 
 #### &emsp; &emsp;&emsp;&emsp; 🌱[NLPCC2022](http://tcci.ccf.org.cn/conference/2022/index.php): "[Aspect-specific Context Modeling for Aspect-based Sentiment Analysis](https://arxiv.org/pdf/2207.08099.pdf)", First author  
 #### &emsp; &emsp;&emsp;&emsp; 🌱[NLPCC2022](http://tcci.ccf.org.cn/conference/2022/index.php): "[A Multibias-mitigated and Sentiment Knowledge Enriched Transformer for Debiasing in Multimodal Conversational Emotion Recognition](https://arxiv.org/pdf/2207.08104.pdf)", First author  
