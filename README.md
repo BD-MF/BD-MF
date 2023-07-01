@@ -53,9 +53,12 @@ fine-grained sentiment analysis, model robustness (out-of-domain, adversarial tr
 #### &emsp; &emsp;&emsp;&emsp; 🌱Software copyright: "Speech Evaluation Web Application System Based on Deep Learning"
 
 ### &emsp; 🤔 Practice
-#### &emsp; &emsp;&emsp;&emsp; 🔭2019.5-2019.7, Neusoft Group Co., Ltd. (Shenyang) Environmental Protection Division, Software Engineer-Backend
-#### &emsp; &emsp;&emsp;&emsp; 🔭2019.11-2020.04 Beijing Xiaomi Mobile Software Co., Ltd., Xiaomi IOT Camera and Cloud Service Group, Software Engineer-Backend
-#### &emsp; &emsp;&emsp;&emsp; 🔭2020.11-now Huawei Campus Developer (HSD)
+#### &emsp; &emsp;&emsp;&emsp; 🔭2019.5-2019.7, 东软集团, 后端开发实习生
+#### &emsp; &emsp;&emsp;&emsp; 🔭2019.11-2020.04 小米, IOT与摄像云服务组, 后端开发实习生
+#### &emsp; &emsp;&emsp;&emsp; 🔭2021.09-2022.09 美团, NLP中心/预训练组,  NLP研究实习生
+#### &emsp; &emsp;&emsp;&emsp; 🔭2022.09-2022.11 百度, 自然语言处理部,    NLP算法实习生
+#### &emsp; &emsp;&emsp;&emsp; 🔭2023.02-2023.06 小红书, 社区搜索组,      NLP算法实习生
+#### &emsp; &emsp;&emsp;&emsp; 🔭2020.11-2023.06 Huawei Campus Developer (HSD)
 
 
     
